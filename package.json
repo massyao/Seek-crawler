@@ -1,0 +1,25 @@
+{
+	"name": "seek spider",
+	"version": "0.0.1",
+	"description": "seek spider to get the content of IT jobs",
+	"author": {
+		"name": "massyao",
+		"email": "massyao@126.com",
+		"url": "http://amormaid.tk"
+	},
+	"license": "MIT",
+	"dependencies": {
+
+		"async": "^2.5.0",
+		"cheerio": "^1.0.0-rc.2",
+
+
+		"eventproxy": "^1.0.0",
+		"express": "^4.15.4",
+		"json": "^9.0.6",
+
+		"superagent": "^3.6.1",
+
+
+	}
+}
